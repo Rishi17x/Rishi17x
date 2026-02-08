@@ -38,7 +38,6 @@ I'm Rishikesh Narayan, a Data Science enthusiast passionate about leveraging dat
 [<img src='https://images.credly.com/size/680x680/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob' width="75" height="75"/>](https://www.credly.com/badges/259dcbe5-e695-4526-8b60-4586f21a071f/public_url)
 [<img src='https://images.credly.com/size/680x680/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png' width="75" height="75"/>](https://www.credly.com/badges/94519d07-86db-4c76-a967-61e3a190e442/public_url)
 [<img src='https://images.credly.com/size/680x680/images/9a6e098a-618a-4e5a-8e8e-364a66b2f3de/Getting_20Started_20With_20Data_20Badge.png' width="75" height="75"/>](https://www.credly.com/badges/9dacb34d-6ff5-4522-a59f-8712cf7e9bd7/public_url)
-[<img src='https://images.credly.com/size/680x680/images/42f7ca3c-6eb3-47d2-a7f3-3b1093ea1b35/image.png' width="75" height="75"/>](https://www.credly.com/badges/a5553ae6-452c-4c6a-a2f1-d2987b67ff63/public_url)
 
 
 ## GitHub Analytics
